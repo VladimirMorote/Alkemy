@@ -1,4 +1,4 @@
-# Alkemy
+# Alkemy Challenge Data Analytics + Python
 
 ## Pasos a seguir
 
